@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br>Hey there! I'm Karthik, an MCA graduate and a passionate Java Full Stack Developer. <br>I enjoy building scalable web applications, working with backend technologies, <br>and constantly learning new things in the world of software development.<br>👯 I’m looking to collaborate on<br>Projects involving Java, Python, Spring Boot, Hibernate, and REST APIs.<br>🌱 I’m currently learning <br> Python<br>⚡ Fun fact<br> When I'm not coding, I love exploring new tech, \<br> watching tech-related content, <br> and sharpening my problem-solving skills!
+🚀 About Me<br>Hey there! I'm Karthik, an MCA graduate and a passionate Java Full Stack Developer. <br>I enjoy building scalable web applications, working with backend technologies, <br>and constantly learning new things in the world of software development.<br>👯 I’m looking to collaborate on<br>Projects involving Java, Python, Spring Boot, Hibernate, and REST APIs.<br>🌱 I’m currently learning <br> Python<br>⚡ Fun fact<br> When I'm not coding, I love exploring new tech,  watching tech-related content, <br> and sharpening my problem-solving skills!
 
 
 ## 🌐 Socials:
